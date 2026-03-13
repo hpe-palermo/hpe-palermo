@@ -44,7 +44,6 @@ Tenho interesse especial em:
 
 ## 🚀 Projetos em Destaque
 
-
 ### ProfessorHub
 
 Sistema web voltado para organização de aulas e planejamento acadêmico, com foco em produtividade para professores. <br>
@@ -63,8 +62,12 @@ Website com foco em conscientização sobre lixo eletrônico, incentivando desca
 ### Sistema de Vendas Online
 
 Aplicação web full stack desenvolvida para gerenciamento de vendas, produtos e estoque, com autenticação de usuários e persistência de dados. <br>
-[Repositório no GitHub](https://github.com/hick-hpe/webapp-sistema-vendas) | [Ver aplicação online](https://palermo.pythonanywhere.com/)
+[Repositório no GitHub](https://github.com/hick-hpe/webapp-sistema-vendas)
 
+### ChatBot - Integração com Ollama
+
+Aplicação de chat com IA utilizando Node.js, Express e o Ollama para executar modelos localmente.
+[Repositório no GitHub](https://github.com/hick-hpe/projeto-ia)
 
 ### 📚 Atualmente Estudando
 - Arquitetura de Software
@@ -72,11 +75,9 @@ Aplicação web full stack desenvolvida para gerenciamento de vendas, produtos e
 - Conteinerização com Docker
 - Estruturação de projetos escaláveis
 
-
 ### 📬 Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-palermo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hick_hpe/)
-
 
 <!-- Badge de visitantes -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hick-hpe)
