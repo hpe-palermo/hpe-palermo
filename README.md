@@ -66,7 +66,7 @@ Aplicação web full stack desenvolvida para gerenciamento de vendas, produtos e
 
 ### ChatBot - Integração com Ollama
 
-Aplicação de chat com IA utilizando Node.js, Express e o Ollama para executar modelos localmente.
+Aplicação de chat com IA utilizando Node.js, Express e o Ollama para executar modelos localmente. <br>
 [Repositório no GitHub](https://github.com/hick-hpe/projeto-ia)
 
 ### 📚 Atualmente Estudando
