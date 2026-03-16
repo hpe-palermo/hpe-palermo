@@ -69,6 +69,11 @@ Aplicação web full stack desenvolvida para gerenciamento de vendas, produtos e
 Aplicação de chat com IA utilizando Node.js, Express e o Ollama para executar modelos localmente. <br>
 [Repositório no GitHub](https://github.com/hick-hpe/projeto-ia)
 
+### Login com Google - OAuth2 com Flask
+
+Aplicação web que implementa autenticação utilizando Google OAuth2 com Flask e Authlib, permitindo que usuários façam login com suas contas Google. <br>
+[Repositório no GitHub](https://github.com/hick-hpe/api-google)
+
 ### 📚 Atualmente Estudando
 - Arquitetura de Software
 - Boas práticas em APIs REST
