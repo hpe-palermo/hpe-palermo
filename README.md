@@ -1,5 +1,6 @@
 
 # 👋 Olá! Eu sou o Henrique
+Python | Django | JavaScript | TypeScript | Node | React | Docker
 
 🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor em formação com foco em aplicações web full stack
